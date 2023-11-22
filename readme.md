@@ -14,6 +14,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp.logo" width="30" height="30"> </img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender.logo" width="30" height="30"> </img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian.logo" width="30" height="30"> </img>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="ps.logo" width="30" height="30"> </img>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="ps.logo]" width="30" height="30"> </img>
+  <img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" alt="debian.logo" width="30" height="30"> </img>
 </div>

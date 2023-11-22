@@ -17,6 +17,10 @@
   <a href="https://www.blender.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender.logo" width="30" height="30"> </img>
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian.logo" width="30" height="30"> </img>
+  <a href="https://www.debian.org/index.pt.html">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian.logo" width="30" height="30"> </img>
+  </a>
+  <a href="https://www.image-line.com/fl-studio"/>
   <img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" alt="debian.logo" width="30" height="30"> </img>
+  </a>
 </div>

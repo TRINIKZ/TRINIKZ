@@ -11,7 +11,9 @@
 <br>
 <div>
   <p>Outros conhecimentos: </p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp.logo" width="30" height="30"> </img>
+  <a href="https://www.gimp.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp.logo" width="30" height="30"> </img>
+  </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender.logo" width="30" height="30"> </img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian.logo" width="30" height="30"> </img>
   <img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" alt="debian.logo" width="30" height="30"> </img>

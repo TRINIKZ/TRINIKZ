@@ -3,12 +3,13 @@
 <p>  Meu nome é Victor Feitosa, eu atualmente estudo Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes, quero aprender várias coisas para no futuro eu conseguir fazer um projeto! Além da programação, eu tinha alto foco em modelagem 3D, design, desenhar, produção músical e até criar mods para jogos.</p>
 <div align=center>
   <p>Linguagens:</p>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"> </img></a>  
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html.logo" width="40" height="40"> </img></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css.logo" width="40" height="40"> </img></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> </img></a>  
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c.logo" widht="40" height="40"> </img></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python.logo" width="40" height="40"> </img></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  width="40" height="40"> </img></a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"> </img></a>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html.logo" width="40" height="40"> </img></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css.logo" width="40" height="40"> </img></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> </img></a>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c.logo" widht="40" height="40"> </img></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python.logo" width="40" height="40"> </img></a>
 </div>
 <br>
 <div>

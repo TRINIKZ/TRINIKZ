@@ -4,7 +4,7 @@
 <div align=center>
   <p>Linguagens:</p>
   
-  <a><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="html.logo" width="40" height="40"> </img></a>  
+  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"> </img></a>  
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html.logo" width="40" height="40"> </img></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css.logo" width="40" height="40"> </img></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c.logo" widht="40" height="40"> </img></a>
